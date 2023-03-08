@@ -1,0 +1,19 @@
+{
+  "name": "thorui-uni",
+  "version": "2.0.1",
+  "description": "ThorUI Component library",
+  "main": "index.js",
+  "repository": "https://github.com/Indekkusu545/ThorUI-uniapp.git",
+  "keywords": [
+    "thorui",
+    "thorui组件库",
+    "uni-app component"
+  ],
+  "author": "Indekkusu545 <30483813+Indekkusu545@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Indekkusu545/ThorUI-uniapp/issues"
+  },
+  "homepage": "https://github.com/Indekkusu545/ThorUI-uniapp#readme",
+  "packageManager": "yarn@3.4.1"
+}
