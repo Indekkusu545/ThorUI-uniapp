@@ -15,5 +15,8 @@
     "url": "https://github.com/Indekkusu545/ThorUI-uniapp/issues"
   },
   "homepage": "https://github.com/Indekkusu545/ThorUI-uniapp#readme",
-  "packageManager": "yarn@3.4.1"
+  "packageManager": "yarn@3.4.1",
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
 }
